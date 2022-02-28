@@ -13,6 +13,7 @@ poetry run history -s google.com
 To see different options you can run help commands
 ```
 poetry run generate --help
+```
 
 ```
 poetry run history --help
